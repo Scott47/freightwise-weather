@@ -1,0 +1,32 @@
+
+.container {
+    padding-bottom: 2em;
+}
+.card-header1 {
+    background-color: rgb(127, 197, 255);
+    vertical-align: middle;
+    text-align: left;
+    justify-content: left;
+}
+#background {
+    background-color: rgb(201, 201, 247);
+    height: 100vh;
+}
+
+#column {
+    font-size: 24;
+    font-weight:bold;
+}
+
+#align-bottom {
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+}
+#sunrise {
+    justify-content: right;
+    text-align: right;
+}
+#air {
+    width: 1em;
+}
