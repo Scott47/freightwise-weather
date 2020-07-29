@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/freightwise-weather/static/css/main.5f361e03.chunk.css",
+    "main.js": "/freightwise-weather/static/js/main.70d9d039.chunk.js",
+    "main.js.map": "/freightwise-weather/static/js/main.70d9d039.chunk.js.map",
+    "runtime-main.js": "/freightwise-weather/static/js/runtime-main.e7c294f5.js",
+    "runtime-main.js.map": "/freightwise-weather/static/js/runtime-main.e7c294f5.js.map",
+    "static/js/2.7b269ade.chunk.js": "/freightwise-weather/static/js/2.7b269ade.chunk.js",
+    "static/js/2.7b269ade.chunk.js.map": "/freightwise-weather/static/js/2.7b269ade.chunk.js.map",
+    "index.html": "/freightwise-weather/index.html",
+    "precache-manifest.86548c22f19178fe732587a412936553.js": "/freightwise-weather/precache-manifest.86548c22f19178fe732587a412936553.js",
+    "service-worker.js": "/freightwise-weather/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/freightwise-weather/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7b269ade.chunk.js.LICENSE.txt": "/freightwise-weather/static/js/2.7b269ade.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/freightwise-weather/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7c294f5.js",
+    "static/js/2.7b269ade.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.70d9d039.chunk.js"
+  ]
+}
