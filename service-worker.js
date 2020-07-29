@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/freightwise-weather/precache-manifest.86548c22f19178fe732587a412936553.js"
+  "/freightwise-weather/precache-manifest.890df14c1bd2d78fa72e0d194cfc81f9.js"
 );
 
 self.addEventListener('message', (event) => {
